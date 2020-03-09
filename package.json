@@ -21,6 +21,7 @@
     "prop-types": "15.7.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-scripts": "^3.4.0",
     "react-transition-group": "4.3.0"
   },
   "scripts": {
@@ -44,7 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "react-scripts": "^3.4.0"
-  }
+  "devDependencies": {}
 }
